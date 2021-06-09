@@ -34,5 +34,4 @@ typings/
 # Yarn Integrity file
 .yarn-integrity
 
-package-lock.json
-package.json
+*.json
